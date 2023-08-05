@@ -2,7 +2,7 @@
 
 int main()
 {
-    sf::RenderWindow window(sf::VideoMode(800, 600), "SFML TUTORIAL");
+    sf::RenderWindow window(sf::VideoMode(800, 600), "kshitiz");
     sf::CircleShape shape(200.f);
     shape.setFillColor(sf::Color::Yellow);
 
